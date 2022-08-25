@@ -1,14 +1,14 @@
 :root {
-  --theme-primary: #F5AE43;
-  --theme-secondary: #F6D55C;
-  --theme-accent: #3EC5FF;
-  --theme-grey: #D9D9D9;
+  --theme-primary: #f5ae43;
+  --theme-secondary: #f6d55c;
+  --theme-accent: #3ec5ff;
+  --theme-grey: #d9d9d9;
   --color: #131313;
   --white: #f2eeee;
   --font-size: 16px;
   --boldness: 700;
   --section-padding: 3rem;
-  --button-padding: .75rem 1.25rem;
+  --button-padding: 0.75rem 1.25rem;
 }
 
 body {
@@ -21,19 +21,19 @@ section {
   padding: var(--section-padding);
 }
 
-.nav-mar{
+.nav-mar {
   max-height: 1vh;
 }
 
-.lorem-1{
+.lorem-1 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 4px;
 }
 
-.cool-image{
+.cool-image {
   max-height: 500px;
   max-width: 500px;
-  border:solid 15px white;
+  border: solid 15px white;
   box-shadow: 6px 6px 6px rgba(128, 128, 128, 0.317);
 }
 
