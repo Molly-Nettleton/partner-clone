@@ -2,8 +2,8 @@
   --theme-primary: #f5ae43;
   --theme-secondary: #f6d55c;
   --theme-accent: #3ec5ff;
-  --theme-grey: #d9d9d9;
-  --color: #131313;
+  --theme-grey: #efeded;
+  --color: #222128;
   --white: #f2eeee;
   --font-size: 16px;
   --boldness: 700;
@@ -21,6 +21,10 @@ section {
   padding: var(--section-padding);
 }
 
+header {
+  box-shadow: 6px 6px 6px rgba(128, 128, 128, 0.317);
+}
+
 .nav-mar {
   max-height: 1vh;
 }
@@ -28,6 +32,11 @@ section {
 .lorem-1 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 4px;
+}
+
+.eum-ipsum,
+.testimonials {
+  background-color: var(--color);
 }
 
 .cool-image {
