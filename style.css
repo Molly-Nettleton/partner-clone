@@ -34,7 +34,10 @@ header {
   border-radius: 4px;
 }
 
-.eum-ipsum,
+.eum-ipsum {
+  background-color: var(--color);
+}
+
 .testimonials {
   background-color: var(--color);
 }
