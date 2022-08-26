@@ -1,13 +1,10 @@
 :root {
-  --theme-primary: #f5ae43;
-  --theme-secondary: #f6d55c;
-  --theme-accent: #3ec5ff;
   --theme-grey: #efeded;
   --color: #222128;
   --white: #f2eeee;
   --font-size: 16px;
   --boldness: 700;
-  --section-padding: 3rem;
+  --section-padding: 5rem;
   --button-padding: 0.75rem 1.25rem;
 }
 
