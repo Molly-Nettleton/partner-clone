@@ -36,6 +36,7 @@ header {
 
 .eum-ipsum {
   background-color: var(--color);
+  color: var(--white);
 }
 
 .testimonials {
